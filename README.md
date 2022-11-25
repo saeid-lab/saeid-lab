@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saeid 
-- 👀 I'm interested in Molecular Dynamics, Programming, and Data Analysis
+- 👀 I'm interested in Computational Chemistry (QM, MM, AI), Programming, and Data Analysis
 - 💞️ I'm open to collaborate on above topics :point_up_2:
 
 
